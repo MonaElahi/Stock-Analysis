@@ -67,6 +67,7 @@ In terms of complexity, we have many simple techniques and algorithms for origin
 
 If we look at design analysis of both codes, refactored code is more formatted which makes it more informative and easier to understand then original code. At the same time, the original code has a button to run the analysis which makes it more user friendly as compared to the refactored code.
 
+![github](https://github.com/MonaElahi/Stock-Analysis/blob/7fe3824cefcb82538aa9a151761161ac1d678cef/All%20Stock%20Analysis%20Data.PNG)
 
 
 
